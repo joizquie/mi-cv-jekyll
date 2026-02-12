@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: Sobre mí
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### ¡Hola! Soy joizquie.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Soy estudiante en la **Universidad de La Rioja** y he creado esta página como parte de la asignatura de **Taller Transversal 1**.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+El objetivo de este sitio es ir documentando paso a paso lo que voy aprendiendo.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Si quieres ver el código de este proyecto, puedes acceder a https://github.com/joizquie
