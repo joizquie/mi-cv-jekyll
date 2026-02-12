@@ -1,29 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Práctica 1: Instalación y despliegue"
 date:   2026-02-10 16:30:22 +0100
-categories: jekyll update
+categories: diario
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+En esta sesión he realizado las siguientes tareas:
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+1.  **Entorno local:** Instalación de Ruby 3.4.8 para poder ejecutar Jekyll en el PC.
+2.  **Control de versiones:** Creación del repositorio en GitHub y subida del código mediante comandos Git.
+3.  **Web automática:** Configuración de GitHub para que la página se actualice sola en internet cada vez que hago un push.
+4.  **Resolución de errores:** Tuve un fallo con el archivo Gemfile.lock al principio, pero lo pude arreglar borrándolo para que GitHub lo regenerase.
